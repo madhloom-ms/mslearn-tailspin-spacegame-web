@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Test23Org/OpenHackDevOps/_apis/build/status/madhloom-ms.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/Test23Org/OpenHackDevOps/_build/latest?definitionId=1&branchName=build-pipeline)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
